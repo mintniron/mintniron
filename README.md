@@ -1,1 +1,1 @@
-DevOps/SRE young blood
+DevOps/SRE
